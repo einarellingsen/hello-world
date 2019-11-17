@@ -1,2 +1,4 @@
 Dette er linje 1
 Dette er linje 2
+Denne endringen i repo 1 er ganske basic.
+Her kommer andre linje fra repo 1.
