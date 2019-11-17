@@ -6,3 +6,7 @@ Her kommer andre linje fra repo 1.
 I tillegg legger vi inn litt ekstra på slutten av dokumentet.
 Nå begynner denne fila å bli ganske lang.
 Enda lenger.
+
+**********
+Kapittel 2
+**********
