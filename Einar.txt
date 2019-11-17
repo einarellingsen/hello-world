@@ -1,2 +1,4 @@
 Dette er linje 1
+I repo 2 sniker vi inn en linje midt mellom de eksisterende.
 Dette er linje 2
+I tillegg legger vi inn litt ekstra på slutten av dokumentet.
