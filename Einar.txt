@@ -1,4 +1,6 @@
 Dette er linje 1
+I repo 2 sniker vi inn en linje midt mellom de eksisterende.
 Dette er linje 2
 Denne endringen i repo 1 er ganske basic.
 Her kommer andre linje fra repo 1.
+I tillegg legger vi inn litt ekstra på slutten av dokumentet.
